@@ -1,0 +1,11 @@
+merchant_id,merchant_name,merchant_category,risk_level
+M001,Amazon,Retail,LOW
+M002,Flipkart,Retail,LOW
+M003,Swiggy,Food,LOW
+M004,Zomato,Food,LOW
+M005,CryptoX,Crypto,HIGH
+M006,BetFast,Gaming,HIGH
+M007,Paytm Wallet,Wallet,MEDIUM
+M008,PhonePe Wallet,Wallet,MEDIUM
+M009,Steam Gaming,Gaming,HIGH
+M010,Local Electronics,Electronics,MEDIUM
