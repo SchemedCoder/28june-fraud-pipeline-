@@ -86,3 +86,15 @@ Useful for:
 - UPI providers
 - Payment gateways
 - Credit card processors
+
+## Model Artifact Note
+
+Generated model artifact:
+
+- fraud_model.pkl
+
+Create it using:
+
+```bash
+python ml/train_model.py
+```
