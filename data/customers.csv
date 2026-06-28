@@ -1,0 +1,11 @@
+customer_id,customer_name,city,age,avg_transaction_amount,risk_profile
+C001,Rahul Sharma,Mumbai,29,850,LOW
+C002,Priya Verma,Delhi,34,1200,LOW
+C003,Amit Singh,Bangalore,41,5000,MEDIUM
+C004,Neha Gupta,Kolkata,26,700,LOW
+C005,Rohan Das,Hyderabad,38,8500,HIGH
+C006,Sneha Jain,Pune,31,1600,MEDIUM
+C007,Arjun Nair,Chennai,28,2200,LOW
+C008,Karan Mehta,Ahmedabad,45,9500,HIGH
+C009,Ananya Roy,Jaipur,33,1800,MEDIUM
+C010,Vikram Patel,Surat,40,6500,HIGH
